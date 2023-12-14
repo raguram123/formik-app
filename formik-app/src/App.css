@@ -1,0 +1,25 @@
+.card{
+  background: rgb(254, 254, 254);
+
+}
+
+.heading{
+background:rgb(116, 113, 113);
+
+}
+
+.text-light{
+position: relative;
+top: 31px;
+
+
+}
+
+body{
+  background-image: url("https://i.pinimg.com/originals/cc/1f/43/cc1f439988aa3bbe273d9ca920000ba5.gif");
+  
+background-position: inherit;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
